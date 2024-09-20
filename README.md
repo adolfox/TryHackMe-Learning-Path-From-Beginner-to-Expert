@@ -40,7 +40,7 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 - [x]  [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 - [ ]  [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
 - [x]  [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
-- [ ]  [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [x]  [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 - [ ]  [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 - [ ]  [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 - [ ]  [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
